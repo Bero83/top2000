@@ -181,4 +181,4 @@ set testnick [nick2hand $nick]
 		}
 	}
 }
-putlog "VloekerBan v1.6 - 2015"
+putlog "Vlaggetjes v1.6 - 2015"
